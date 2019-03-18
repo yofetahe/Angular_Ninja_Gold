@@ -1,0 +1,9 @@
+div.point{
+    width: 100%;
+}
+
+div.result_message{
+    border: 1px solid silver;
+    border-radius: 5px;
+    padding: 20px;
+}
